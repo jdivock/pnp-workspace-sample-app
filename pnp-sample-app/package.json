@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "pnp-sample-app",
+  "version": "1.0.0",
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "core-decorators": "^0.20.0",

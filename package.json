@@ -2,6 +2,14 @@
   "name": "pnp-workspace-app",
   "version": "1.0.0",
   "description": "proving broken stuff",
-  "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "pnp-sample-app"
+    ]
+  },
+  "installConfig": {
+    "pnp": true
+  }
 }
