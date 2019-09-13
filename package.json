@@ -1,0 +1,7 @@
+{
+  "name": "pnp-workspace-app",
+  "version": "1.0.0",
+  "description": "proving broken stuff",
+  "main": "index.js",
+  "license": "MIT"
+}
